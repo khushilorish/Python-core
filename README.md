@@ -1,6 +1,5 @@
 # Python-core
 
-# Python Core & Libraries Practice
 This repository contains my structured practice of core Python and essential Python libraries used in AI/ML.
 The focus is on building strong fundamentals through hands-on coding and problem solving, not tutorials or copied code.
 
@@ -21,7 +20,6 @@ practice_questions/
 
 ## Notes
 - Each folder contains topic-wise Python scripts and examples.
-- Code is written for practice and conceptual clarity.
 
 ## Purpose
 - Build strong Python fundamentals for AI/ML
