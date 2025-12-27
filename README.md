@@ -1,2 +1,4 @@
 # Python
-This repository contains my systematic practice of core Python and major libraries (NumPy, Pandas, etc.), with problem-solving code and examples updated regularly as part of my AI/ML preparation.
+Python Core & Libraries Practice
+This repository contains my structured practice of core Python and essential Python libraries used in AI/ML.
+The focus is on building strong fundamentals through hands-on coding and problem solving, not tutorials or copied code.
